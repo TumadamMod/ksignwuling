@@ -18,13 +18,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.ksign.app8</string>
+        <string>ksign.wuling.power</string>
         <key>bundle-version</key>
-        <string>1.3</string>
+        <string>1.3.1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>KSign</string>
+        <string>Ksign</string>
       </dict>
     </dict>
   </array>
